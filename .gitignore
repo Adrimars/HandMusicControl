@@ -1,0 +1,14 @@
+# Sanal ortam
+.venv/
+
+# Derleme çıktıları
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
